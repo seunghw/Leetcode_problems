@@ -19,3 +19,5 @@ const twoSum = (nums, target) => {
 
   return null;
 };
+
+twoSum([2, 7, 11, 15], 9);
