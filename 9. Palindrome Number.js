@@ -9,3 +9,5 @@ const isPalindrome = (x) => {
 
   return true;
 };
+
+isPalindrome(-3456);
