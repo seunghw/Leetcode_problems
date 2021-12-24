@@ -1,13 +1,27 @@
 const isPalindrome = (x) => {
-  const arr = String(x).split("");
+  const arr = String(x).split(""); // arr를 문자열로 바꾼 뒤에 각 배열의 요소에 넣어줌
 
   while (arr.length > 1) {
+    // 길이가 다 사라질 때까지
     if (arr.shift() !== arr.pop()) {
-      return false;
+      // 만약에 배열의 맨 앞의 값과 맨 뒤의 값을 제거하면서 같지 않으면
+      return false; // false 출력
     }
   }
 
-  return true;
+  return true; // 같으면 true 출력
 };
 
-isPalindrome(-3456);
+// 사용한 함수
+
+// String() : 문자열로 바꿔주는 함수
+// split("") : 괄호 안의 값 기준으로 배열에 나눠주는 것. 여기선 문자 하나씩 해야했기 때문에 공백을 위해 ""라고 표시함.
+//             따라서 각 원소들을 잘라 배열에 넣어줌
+
+// shift() : 배열의 맨 앞을 제거하는 함수
+// pop() : 배열의 맨 끝의 값을 제거하는 함수
+
+// 베스트 코드를 참고하여 작성하였다. 처음 나의 생각은 값을 배열에 넣고 뒤집은 값과 비교할 생각이었다.
+// 하지만 이렇게 베스트 코드를 보면서 새삼 대단하다고 느껴진다. 이런 코드를 짤 수 있도록 많은 연습이 필요할 것 같다.
+
+isPalindrome(3456);
