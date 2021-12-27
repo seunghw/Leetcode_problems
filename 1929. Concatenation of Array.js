@@ -1,9 +1,7 @@
 var getConcatenation = function (nums) {
   const range = nums.length;
   for (let i = 0; i < range; i++) {
-    console.log(nums[i]);
     nums.push(nums[i]);
-    console.log(nums);
   }
   return nums;
 };
