@@ -19,3 +19,9 @@ leetcode 문제 풀이 저장소
 - 1108. Defanging an IP Address
 
 - 2114. Maximum Number of Words Found in Sentences
+
+- 1672. Richest Customer Wealth
+
+- 1470. Shuffle the Array
+
+- 1431. Kids With the Greatest Number of Candies
