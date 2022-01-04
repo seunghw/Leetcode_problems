@@ -25,3 +25,7 @@ leetcode 문제 풀이 저장소
 - 1470. Shuffle the Array
 
 - 1431. Kids With the Greatest Number of Candies
+
+- 1512. Number of Good Pairs
+
+- 771. Jewels and Stones
