@@ -29,3 +29,5 @@ leetcode 문제 풀이 저장소
 - 1512. Number of Good Pairs
 
 - 771. Jewels and Stones
+
+- 1603. Design Parking System
