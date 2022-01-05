@@ -28,3 +28,28 @@ const numJewelsInStones = (J, S) => {
 };
 
 // 미친것같다. 어떻게 이렇게 생각하지. reduce전까지는 생각을 하긴했지만.. 확실히 reduce가 좋은 것 같다. 익숙해져야지..
+
+// map
+// 배열.map((요소, 인덱스, 배열) => { return 요소 });
+
+// const oneTwoThree = [1, 2, 3];
+// let result = oneTwoThree.map((v) => {
+//   console.log(v);
+//   return v;
+// });
+// // 콘솔에는 1, 2, 3이 찍힘
+// oneTwoThree; // [1, 2, 3]
+// result; // [1, 2, 3]
+// oneTwoThree === result; // false
+
+// reduce
+// 배열.reduce((누적값, 현잿값, 인덱스, 요소) => { return 결과 }, 초깃값);
+
+// result = oneTwoThree.reduce((acc, cur, i) => {
+//     console.log(acc, cur, i);
+//     return acc + cur;
+//   }, 0);
+//   // 0 1 0
+//   // 1 2 1
+//   // 3 3 2
+//   result; // 6
