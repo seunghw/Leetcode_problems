@@ -31,3 +31,7 @@ leetcode 문제 풀이 저장소
 - 771. Jewels and Stones
 
 - 1603. Design Parking System
+
+- 1828. Queries on Number of Points Inside a Circle
+
+- 1365. How Many Numbers Are Smaller Than the Current Number
