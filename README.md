@@ -35,3 +35,9 @@ leetcode 문제 풀이 저장소
 - 1828. Queries on Number of Points Inside a Circle
 
 - 1365. How Many Numbers Are Smaller Than the Current Number
+
+- 1528. Shuffle String
+
+- 1281. Subtract the Product and Sum of Digits of an Integer
+
+- 1720. Decode XORed Array
