@@ -41,3 +41,5 @@ leetcode 문제 풀이 저장소
 - 1281. Subtract the Product and Sum of Digits of an Integer
 
 - 1720. Decode XORed Array
+
+- 704. Binary Search
