@@ -43,3 +43,5 @@ leetcode 문제 풀이 저장소
 - 1720. Decode XORed Array
 
 - 704. Binary Search
+
+- 1342. Number of Steps to Reduce a Number to Zero
