@@ -45,3 +45,9 @@ leetcode 문제 풀이 저장소
 - 704. Binary Search
 
 - 1342. Number of Steps to Reduce a Number to Zero
+
+- 278. First Bad Version
+
+- 1769. Minimum Number of Operations to Move All Balls to Each Box
+
+- 278. First Bad Version
