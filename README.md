@@ -51,3 +51,19 @@ leetcode 문제 풀이 저장소
 - 1769. Minimum Number of Operations to Move All Balls to Each Box
 
 - 278. First Bad Version
+
+- 1302. Deepest Leaves Sum
+
+- 35. Search Insert Position
+
+- 977. Squares of a Sorted Array
+
+- 561.  Array Partition 1
+
+- 121. Best Time to Buy and Sell Stock.
+
+- 234.  Palindrome Linked List
+
+- 1678. Goal Parser Interpretation
+
+- 1221. Split a String in Balanced Strings
