@@ -67,3 +67,5 @@ leetcode 문제 풀이 저장소
 - 1678. Goal Parser Interpretation
 
 - 1221. Split a String in Balanced Strings
+
+- 2006. Count Number of Pairs With Absolute Difference K
