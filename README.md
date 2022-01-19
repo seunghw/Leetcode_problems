@@ -69,3 +69,5 @@ leetcode 문제 풀이 저장소
 - 1221. Split a String in Balanced Strings
 
 - 2006. Count Number of Pairs With Absolute Difference K
+
+- 2037. Minimum Number of Moves to Seat Everyone
