@@ -7,3 +7,5 @@ var minMovesToSeat = function (seats, students) {
   }
   return count;
 };
+
+// 의자
