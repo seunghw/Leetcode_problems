@@ -81,3 +81,7 @@ leetcode 문제 풀이 저장소
 - 21 . Merge Two Sorted Lists
 
 - 1588 . Sum of All Odd Length Subarrays
+
+- 2089 . Find Target Indices After Sorting Array
+
+- 1331 . Rank Transform of an Array
