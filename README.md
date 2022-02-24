@@ -89,3 +89,9 @@ leetcode 문제 풀이 저장소
 - 1832 . Check if the Sentence Is Pangram
 
 - 1913 . Maximum Product Difference Between Two Pairs
+
+- 1290 . Convert Binary Number in a Linked List to Integer
+
+- 1588 . Sum of All Odd Length Subarrays
+
+- 1688 . Count of Matches in Tournament
