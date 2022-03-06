@@ -95,3 +95,5 @@ leetcode 문제 풀이 저장소
 - 1588 . Sum of All Odd Length Subarrays
 
 - 1688 . Count of Matches in Tournament
+
+- 2108 . Find First Palindromic String in the Array
